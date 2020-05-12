@@ -8,14 +8,17 @@ An image (that contains the heiroglyphs to be translated) is taken as an input,t
 
 This repo Contains:
 
-Dictionary_Translation.py  Functions to translate the gardiner label to english 
+Dictionary_Translation.py       Functions to translate the gardiner label to english 
 
-FinalWorking.py            The complete algorithm from uploading image to english translation
+FinalWorking.py                 The complete algorithm from uploading image to english translation
 
-Final_classifier.py        Classifier Model training 
+Final_classifier.py             Classifier Model training 
 
-Dataset.txt                Dictionary of labels and english words
+Dataset.txt                     Dictionary of labels and english words
 
-Label_dict.py              Dictionary For mapping the labels to integers to be used in classifier
+Label_dict.py                   Dictionary For mapping the labels to integers to be used in classifier
 
-Model.h5                   The trained model on the dataset
+Model.h5                        The trained model on the dataset
+
+Application:
+FinalWorkingFileWithServer.py   The complete algorithm and the server side 

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050691779549",
+    "firebase_url": "https://hierotranslate.firebaseio.com",
+    "project_id": "hierotranslate",
+    "storage_bucket": "hierotranslate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050691779549:android:139f33ae7230527216d434",
+        "android_client_info": {
+          "package_name": "com.example.hieroglyphicstranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050691779549-3j8f9ih961g0vf8ojq1lrpfkerdie93j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hieroglyphicstranslator",
+            "certificate_hash": "e8d3d0e633492c226c86c10e2e6e9572b19d025a"
+          }
+        },
+        {
+          "client_id": "1050691779549-45j513peebv1bcb0m3okq43fm2qlvtbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7t2jYFOBW4t149B9vsEujPZ8OtqNe7hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050691779549-45j513peebv1bcb0m3okq43fm2qlvtbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

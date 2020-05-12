@@ -1,0 +1,170 @@
+A55;lie down
+Aa15;Unknown
+Aa26;Unknown
+Aa27;Unknown
+Aa28;Unknown
+D1;head
+D10;Udjat-eye
+D156;Unknown
+D19;nose,eye and cheek
+D2;face
+D21;mouth
+D28;close
+D34;arms with shield and battle axe
+D35;not 
+D36;forearm 
+D39;forearm with bowl
+D4;eye
+D46;hand 
+D52;man-like
+D53;in before
+D54;approach 
+D56;leg
+D58;place 
+D60;purely 
+D62;toe 
+E1;bull
+E17;jackal
+E23;lying lion
+E34;hare
+E9;newborn
+F12;head and neck of animal
+F13;horns
+F16;horn
+F18;tusk
+F21;ear of bovine
+F22;hind-quarters of lion
+F23;foreleg of ox
+F26;skin of goat
+F29;cow's skin pierced by arrow
+F30;water-skin
+F31;three skins tied together
+F32;animal's belly
+F34;heart
+F35;heart and windpipe
+F4;forepart of lion
+F40;backbone and spinal cords
+F9;leopard head
+G1;Egyptian vulture
+G10;falcon in Sokar barque 
+G14;Vulture 
+G17;owl
+G21;guinea-fowl
+G25;northern bald ibis
+G26;sacred Ibis on standard
+G29;saddle-billed stork 
+G35;cormorant
+G36;Swallow 
+G37;sparrow
+G39;Pintail duck
+G4;buzzard
+G40;pintail flying
+G43;quail chick
+G5;falcon
+G50;two plovers 
+G7;divine 
+H6;feather 
+I10;horned viper crawling out of enclosure 
+I5;crocodile with curved tail
+I9;horned viper
+L1;Dung beetle, become, emerge 
+M1;tree
+M12;one lotus plant
+M16;clump of papyrus 
+M17;reed
+M18;combination of reed and legs walking
+M195;
+M23;sedge
+M26;flowering sedge
+M29;seed-pod
+M3;branch
+M4;palm branch
+M40;bundle of reeds 
+M41;piece of wood
+M42;flower 
+M44;thorn
+M8;pool with lotus flowers
+N1;sky
+N14;star
+N16;land with grains
+N17;land
+N18;sandy tract
+N19;combination of sandy tract andripple of water 
+N2;sky with sceptre
+N24;irrigation canal system
+N25;three hills 
+N26;two hills
+N29;slope of hill
+N30;mound of earth
+N31;road with shrubs
+N35;ripple of water
+N36;canal
+N37;pool
+N41;well with ripple of water
+N5;sun
+O1;house
+O11;palace
+O28;column
+O29;horizontal wooden column
+O31;door
+O34;door bolt
+O4;shelter
+O49;village
+O50;threshing floor
+O51;pile of grain 
+P1;ship, boat
+P13;Unknown
+P6;Stand 
+P8;oar
+P98;Unknown
+Q1;seat,place
+Q3;stool
+Q7;Brazier,Lamp
+R4;loaf on mat
+R8;Cloth on pole 
+S24;girdle knot
+S28;cloth with fringe on top and folded cloth 
+S29;folded cloth
+S34;life sandal strap
+S42;Sekhem scepter
+T14;throw stick vertically 
+T20;harpoon head
+T21;harpoon
+T22;arrowhead
+T28;butcher's block
+T30;knife
+U1;sickle
+U15;sledge
+U28;fire drill
+U33;pestle
+U35;Unknown
+U7;hoe
+V13;Unknown
+V16;cattle hobble
+V22;whip
+V24;Unknown
+V25;command staff
+V28;eternity
+V30;basket
+V31;basket with handle
+V4;lasso
+V6;rope
+V7;rope
+W11;seat 
+W14;side area
+W15;clean 
+W18;water pitchers in the stand
+W19;Milk jug with handle
+W22;beer 
+W24;Pot
+W25;fetch
+X1;loaf of bread
+X6;loaf with decoration
+X8;cone shaped bread
+Y1;book 
+Y2;papyrus scroll
+Y3;write
+Y5;Senet board 
+Z1;Egyptian numeral 1 
+Z11;Two planks crossed and joined
+Z7;coil

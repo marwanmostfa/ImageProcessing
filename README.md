@@ -21,4 +21,5 @@ Label_dict.py                   Dictionary For mapping the labels to integers to
 Model.h5                        The trained model on the dataset
 
 Application:
+
 FinalWorkingFileWithServer.py   The complete algorithm and the server side 

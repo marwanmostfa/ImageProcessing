@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hieroglyphics Translator</string>
+    <string name="take_photo">take a photo</string>
+    <string name="upload_picture">Upload picture</string>
+</resources>

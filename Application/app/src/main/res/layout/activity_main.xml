@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ECEFF1"
+    tools:context=".MainActivity">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="4"
+            android:background="#E0E0E0"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/line"
+                android:text="Hiero Translator"
+                android:textColor="#FBE9E7"
+                android:textSize="20dp"
+                android:fontFamily="sans-serif-light"
+                android:gravity="center_horizontal"
+                android:padding="12dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Uploaded photo will appear below"
+                android:paddingBottom="8dp"
+                android:paddingTop="8dp"
+                android:textSize="10dp"
+                android:fontFamily="sans-serif-condensed"
+                android:gravity="center_horizontal"
+                />
+
+            <ImageView
+                android:id="@+id/my_image"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:paddingBottom="4dp"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_gravity="bottom"
+            android:layout_alignParentBottom="true"
+            android:gravity="bottom"
+            android:paddingBottom="4dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/takePhotoButton"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/take_photo"
+                    android:backgroundTint="#37474F"
+                    android:fontFamily="monospace"
+                    android:textColor="#F5F5F5"
+                    android:layout_gravity="center_horizontal|center"
+                    android:textAllCaps="true"/>
+                <Button
+                    android:id="@+id/uploadPhotoButton"
+                    android:layout_width="0dp"
+                    android:backgroundTint="#37474F"
+                    android:textColor="#F5F5F5"
+                    android:fontFamily="sans-serif-smallcaps"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_gravity="center_horizontal|center"
+                    android:text="@string/upload_picture"
+                    android:textAllCaps="true"
+                    />
+
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/translation_edit_text"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="3"
+                android:enabled="true"
+                android:padding="4dp"
+                android:layout_marginHorizontal="4dp"
+                android:scrollbars="vertical"
+                android:background="@drawable/back"
+                android:textSize="13sp"
+                android:autoLink="web"
+                android:hint="Link to extracted symbols will appear here"
+                />
+        </LinearLayout>
+ </LinearLayout>
